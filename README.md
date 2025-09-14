@@ -28,21 +28,3 @@ This project is built using the **MERN stack (MongoDB, Express.js, React.js, Nod
 
 ---
 
-## 📂 Project Structure
-Blogging Website/
-│
-├── client/ # React frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── pages/ # Login, Signup, Home, CreateBlog, BlogDetails
-│ │ ├── components/
-│ │ └── App.js
-│ └── package.json
-│
-├── server/ # Node.js backend
-│ ├── models/ # Mongoose models
-│ ├── routes/ # API routes (auth, blog)
-│ ├── server.js # Entry point
-│ └── package.json
-│
-└── README.md # Project documentation
